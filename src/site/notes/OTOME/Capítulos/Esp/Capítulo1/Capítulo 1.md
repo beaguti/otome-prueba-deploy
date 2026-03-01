@@ -40,13 +40,13 @@ Ha pasado casi un año de su muerte. Un año en el que los nobles me han dejado 
 
 —Otra vez de viaje... A saber dónde se encuentra ahora.
 
-El hombre niega con la cabeza en desaprobación. —Con tantos viajes que hace quién sabe si alguna de sus hijas es realmente hija del [[OTOME/Personajes/Macedonia/Karanos - padre\|basileús]]... —susurra mirándome.
+El hombre niega con la cabeza en desaprobación. —Con tantos viajes que hace quién sabe si alguno de sus vástagos es realmente del [[OTOME/Personajes/Macedonia/Karanos - padre\|basileús]]... —susurra mirándome.
 
 Sé que se refiere a mi. Intento que no me afecte. Intento no mirar en su dirección; darle lo que quiere. Por primera vez, maldigo a mi madre por no estar aquí. Quiero entender las circunstancias que la llevan a hacer esos viajes. ¿Pero quién me entiende a mi, la supuesta hija bastarda de la reina?
 
 A mi espalda siento a mi guarda apretar con fuerza su lanza. —No hagas nada [[OTOME/Personajes/Intereses/Alketis - guarda\|Alketis]]. Que hablen. De todas formas no saben hacer otra cosa... —le susurro.
 
-—Pero princesa, sabe que de esa forma se pone en duda su...
+—Pero majestad, sabe que de esa forma se pone en duda su...
 
 Niego con la cabeza. No tiene sentido discutir con esos nobles. Solo debo aguantar lo que dure esta odiosa reunión.
  

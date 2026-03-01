@@ -15,7 +15,7 @@
 > | Gustos |  |
 > | Disgustos |  |
 
- 
+ ES BUGGY
 
 ## Tabla de contenidos
 - [[OTOME/Personajes/P. Mitos/Edipo#^0d1af8\|Apariencia y carácter]]

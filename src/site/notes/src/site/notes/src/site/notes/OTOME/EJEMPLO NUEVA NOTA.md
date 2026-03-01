@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/otome/ejemplo-nueva-nota/"}
+{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/otome/ejemplo-nueva-nota/"}
 ---
+
 
 
 tu escribes la nota (importante k tenga lo de arriba)

@@ -20,6 +20,7 @@
 	> Testing
 
 [[OTOME/Glosario/Glosario#^864597\|Basileus]] Archidamos de los Eripontidas.
+Descendiente de Agamenón. Le cae mal.
 
 ## Tabla de contenidos
 - [[OTOME/Personajes/Esparta/Archidamos#^0d1af8\|Apariencia y carácter]]

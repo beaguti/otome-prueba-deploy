@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/otome/ejemplo-nueva-nota/"}
+{"dg-publish":true,"permalink":"/otome/ejemplo-nueva-nota-y-como-publicar/"}
 ---
 
 tu escribes la nota (importante k tenga lo de arriba)

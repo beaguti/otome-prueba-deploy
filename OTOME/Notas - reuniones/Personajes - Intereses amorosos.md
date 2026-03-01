@@ -13,7 +13,9 @@ Los NPCs, son así con la cara emborronada.
 5. Esclavo --> Kaladin
 6. Príncipe (twink) --> ?
 7. Junior --> ?
-8. Cosa cambia formas --> Zeus
+8. Guarda --> emotionally stunted woman
+9. Rival --> yuzuriha (bando rival del gremio)*
+10. Cosa cambia formas --> Zeus
 El príncipe y el junior aparecen más tarde.
 -----------------------------------------
 **ESPÍA --> MINTHARA**
@@ -64,5 +66,18 @@ El príncipe y el junior aparecen más tarde.
 	- Si le rechazas al principio no se lo toma mal, tiene paciencia "ya caerás". 
 	- Si le has rechazado antes de que todo explote con la guerra, es peor que una Karen cuando no le dan lo que quiere y se va con su amante del otro bando que SÍ le hace casito.
 -----------------------------------------
+**RIVAL --> YUZURIHA + KACHAN**
+- Hay un grupo que está bajo el mando de otro general, el cual tiene una rivalidad con Teleklos (Darcy).
+- No te puedes fiar de ella, porque lo mismo te ayuda como te da una puñalada trapera, literal o figuradamente.
+---
+**GUARDA --> EMOTIONALY STUNTED WOMAN**
+- Básicamente el trope de "caballer@ y princes@"
+- La reina lo puso para protegerte.
+- Cuando escapas a Esparta, ella no tiene ni puñetera idea de que te has pirado.
+- Eventually, va a buscarte a Esparta y en el momento en el que te encuentra, te jura lealtad.
+
+---
+
+
 **ESCLAVO --> KALADIN**
 - Mesenio.

@@ -8,7 +8,7 @@ dg-publish: true
 > ###### Ἀλκέτις %%“la valiente”, “la defensora”, femenino de Alketas%% 
 > | Table Header | Table Header | 
 > | ---- | --- | 
-| Edad |  | 
+| Edad | 33 | 
 | Nacimiento | Tesalónica, [[Macedonia]] |
 > | Estado | Viva | 
 > | Afiliación | Reino de Macedonia |
@@ -31,9 +31,10 @@ Idk why, pero me la imagino pelirroja (ref -> athena epic +-)
 
 ## Historia ^3fb9bc
 Conoce a la [[Prota]] cuando la reina, [[Phila - madre|Phila]] la pone a cargo de la protección de su hija.
+No sabe que la prota se ha ido a Esparta. Cuando la encuentra le jura lealtad en ese mismo momento.
 
 ## Relaciones ^9ca3c2
-
+Es la guarda personal de [[Prota|Y/N]], que la [[Phila - madre|reina]] puso a su cargo.
 
 ## Carta Astral ^7b7573
 

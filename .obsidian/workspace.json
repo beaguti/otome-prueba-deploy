@@ -11,14 +11,12 @@
             "id": "d35ed3a974e0d541",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "OTOME/00. Índice.md",
-                "mode": "preview",
-                "source": false
+                "file": "OTOME/assets/sirens.png"
               },
-              "icon": "lucide-file",
-              "title": "00. Índice"
+              "icon": "lucide-image",
+              "title": "sirens"
             }
           }
         ]
@@ -181,37 +179,42 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-kanban:Create new board": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "d35ed3a974e0d541",
+  "active": "6ccec5698608aeaf",
   "lastOpenFiles": [
+    "OTOME/Personajes/Intereses/Alketis - guarda.md",
+    "OTOME/Personajes/Macedonia/00. Índice.md",
+    "OTOME/Personajes/Macedonia/Kleitos.md",
+    "OTOME/Personajes/Macedonia/Índice.md",
+    "OTOME/Personajes/Macedonia/Antigona.md",
+    "OTOME/Personajes/P. Mitos/Edipo.md",
+    "OTOME/Personajes/Intereses/Teleklos - jefe.md",
+    "OTOME/Personajes/Esparta/Archidamos.md",
+    "OTOME/Notas - reuniones/TABLERO KANBAN.md",
+    "OTOME/Notas - reuniones/Personajes - Intereses amorosos.md",
+    "OTOME/Notas - reuniones/2026-01-25.md",
+    "OTOME/Notas - reuniones/2026-03-01.md",
+    "OTOME/Capítulos/Esp/Capítulo3/Guión 3.md",
+    "OTOME/Capítulos/Esp/Capítulo1/Capítulo 1.md",
+    "OTOME/assets/00. Índice.md",
+    "OTOME/assets/sirens 1.png",
+    "OTOME/assets/sirens.png",
+    "OTOME/mitos/Sirenas.md",
+    "OTOME/Capítulos/Guía de hechos.md",
+    "OTOME/EJEMPLO NUEVA NOTA y como publicar.md",
+    "OTOME/00. Índice.md",
     "src/00. Índice.md",
     "README.md",
-    "OTOME/assets/00. Índice.md",
     "OTOME/Capítulos/Esp/Capítulo1/00. Índice.md",
     "OTOME/Capítulos/Esp/Capítulo2/00. Índice.md",
     "OTOME/Capítulos/Esp/Capítulo3/Misión/00. Índice.md",
     "OTOME/Capítulos/Esp/Capítulo3/00. Índice.md",
     "OTOME/Capítulos/Esp/Capítulo4/00. Índice.md",
-    "OTOME/Capítulos/Esp/00. Índice.md",
-    "OTOME/Capítulos/Ing/00. Índice.md",
-    "OTOME/Glosario/00. Índice.md",
-    "OTOME/Culturas/00. Índice.md",
-    "OTOME/Culturas/Peloponeso/00. Índice.md",
-    "OTOME/Grupos/00. Índice.md",
-    "OTOME/mitos/00. Índice.md",
-    "OTOME/Notas - reuniones/Notas - program/00. Índice.md",
-    "OTOME/Personajes/00. Índice.md",
-    "OTOME/Personajes/Esparta/00. Índice.md",
-    "OTOME/Personajes/Intereses/00. Índice.md",
-    "OTOME/Personajes/Macedonia/00. Índice.md",
-    "OTOME/Personajes/P. Mitos/00. Índice.md",
-    "OTOME/Personajes/Personajes Secundarios/00. Índice.md",
-    "OTOME/00. Índice.md",
-    "OTOME/Índice.md",
-    "OTOME/Personajes/Personajes Secundarios/Índice.md",
-    "OTOME/Personajes/Dioses/00. Índice.md",
     "src/site/notes/OTOME/Capítulos/Esp/Capítulo3/Misión",
     "src/site/notes/OTOME/Capítulos/Esp/Capítulo5",
     "src/site/notes/OTOME/Capítulos/Esp/Capítulo4",
@@ -229,8 +232,6 @@
     "src/site/img/user/OTOME/assets/nikaia.png",
     "src/site/img/user/OTOME/assets/mapa_regiones.png",
     "src/site/img/user/OTOME/assets/mapa_polis.png",
-    "src/site/img/user/OTOME/assets/mapa_macedonia_egeo.png",
-    "src/site/img/user/OTOME/assets/mapa_general_sparta.webp",
-    "src/site/img/user/OTOME/assets/foto_eurypon.png"
+    "src/site/img/user/OTOME/assets/mapa_macedonia_egeo.png"
   ]
 }

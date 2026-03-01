@@ -53,3 +53,6 @@ Dos opciones:
 	- Acariciar a la cabra.
 	- Pegar a la cabra --> la cabra te ataca y te tira al suelo. El LI te ayuda a levantarte y os piráis.
 	- Apartar a la cabra --> te stalkea hasta el final de la misión. Zeus se indigna un poco pero luego se le pasa cuando la prota se carga a la esfinge. A la siguiente vez que os veis, no te lo tiene tan en cuenta y te da una segunda oportunidad. "como osa esta mortal pasar de largo de semejante macho cabrío."
+
+### Vuelta de Tebas
+- Edipo no dice que ha sido él quien se ha cargado a la Esfinge. Es decir, le dicen "ostras que bien, te has cargado a la esfinge", y él no lo niega, básicamente buggy

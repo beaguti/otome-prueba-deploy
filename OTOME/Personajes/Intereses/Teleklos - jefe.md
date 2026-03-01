@@ -40,6 +40,16 @@ Cuando entró al grupo de mercenarios, fue escalando muy rápidamente en rango. 
 ## Relaciones ^9ca3c2
 Es el jefe de la [[Prota]] y de [[Menalkes - bestie|Menalkes]].
 No lo admite, pero es bestie de [[Pherenike - karlach|Pherenike]].
+Él no lo sabe, pero tiene un rival. Este pavo ha estado rivalizando con Teleklos durante años. Teleklos alcanza antes la posición de "general".
+Cuando pavo A, llega a la misma posición que Teleklos, han pasado 2 años, va donde él a decirle que por fin ha llegado a su nivel y que de ahora en adelante ascenderá mucho más que él.
+>—Por fin he alcanzado tu nivel, ahora ascenderé mucho más.
+>Teleklos asiente con la cabeza. —Bien por ti. A todo esto, ¿quién eres?
+>—Así que haces como que no sabes, ¿cómo osas? No dejaré que olvides mi nombre.
+>Y se va.
+>—No sabes quién es de verdad?
+>—No.
+>—Era el segundo mejor en las listas. Después de ti. Literalmente tu sombra. —Dice Pherenike.
+>—ª
 
 ## Carta Astral ^7b7573
 

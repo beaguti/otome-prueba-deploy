@@ -15,7 +15,7 @@ dg-publish: true
 > | Gustos |  |
 > | Disgustos |  |
 
- 
+ ES BUGGY
 
 ## Tabla de contenidos
 - [[Edipo#^0d1af8|Apariencia y carácter]]

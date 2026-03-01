@@ -20,6 +20,7 @@ dg-publish: true
 	> Testing
 
 [[Glosario#^864597|Basileus]] Archidamos de los Eripontidas.
+Descendiente de Agamenón. Le cae mal.
 
 ## Tabla de contenidos
 - [[Archidamos#^0d1af8|Apariencia y carácter]]

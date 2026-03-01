@@ -1,14 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/otome/notas-reuniones/tablero-kanban/"}
+{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/otome/notas-reuniones/tablero-kanban/"}
 ---
 
 
 
+
+---
+dg-home: true
+dg-publish: true
 ## planned
 
 - [ ] diseños fondos
 - [ ] diseños pjs
 - [ ] guion 3
+- [ ] cap1
 - [ ] cap2
 - [ ] cap 3
 - [ ] UI
@@ -19,7 +24,6 @@
 - [ ] perfiles pj
 - [ ] canon ciudades
 - [ ] glosario
-- [ ] cap1
 
 
 ## esperar a otros

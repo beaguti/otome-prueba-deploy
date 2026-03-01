@@ -3,10 +3,6 @@
 ---
 
 
-
----
-dg-home: true
-dg-publish: true
 ## planned
 
 - [ ] diseños fondos

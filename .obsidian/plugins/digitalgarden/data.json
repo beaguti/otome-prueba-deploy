@@ -1,6 +1,6 @@
 {
   "githubRepo": "otome-prueba-deploy",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "beaguti",
   "gardenBaseUrl": "",
   "prHistory": [],
@@ -10,7 +10,7 @@
   "logoPath": "",
   "useFullResolutionImages": false,
   "noteSettingsIsInitialized": true,
-  "siteName": "Digital Garden",
+  "siteName": "Otome Mierdoso",
   "mainLanguage": "en",
   "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
@@ -38,13 +38,13 @@
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,
-    "dgShowBacklinks": false,
-    "dgShowLocalGraph": false,
-    "dgShowInlineTitle": false,
-    "dgShowFileTree": false,
-    "dgEnableSearch": false,
-    "dgShowToc": false,
-    "dgLinkPreview": false,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": true,
     "dgShowTags": false
   },
   "uiStrings": {

@@ -28,7 +28,7 @@ Uno de los nobles %%me invento aquí que hay algún consejo, idk si lo hay --> h
 
 —[[Prota|Y/N]] —uno de los nobles me mira—, tienes que casarte con [[Timenos]] cuanto antes si quieres heredar el trono. 
 
-—Y no nos olvidemos de la sucesión —dice otro—. [[Prota|Y/N]] fue las últimas que se casó y ni siquiera hemos tenido noticias de ningún posible embarazo. Lykos y [[Nikaia]] al menos están esperando el primero, y eso la pone por delante.
+—Y no nos olvidemos de la sucesión —dice otro—. [[Prota|Y/N]] fue de las últimas que se casó y ni siquiera hemos tenido noticias de ningún posible embarazo. Lykos y [[Nikaia]] al menos están esperando el primero, y eso la pone por delante.
 
 Ni siquiera me molesto en contestar al noble. Todos aquí saben cómo fue mi matrimonio con [[Kleitos]], y sobre todo, la forma en la que terminó. [[Kleitos]] era un buen hombre y un buen marido; mejor de lo que yo podía haber pedido. Ninguno quería esa unión, pero con el tiempo nos terminamos respetando. No éramos la pareja ideal, pero nos entendíamos. 
 

@@ -4,7 +4,7 @@ tags:
   - tags
   - Cosa
   - timeline
-dg-home:
+dg-home: false
 dg-publish: true
 ---
 
